@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#$jvtk718f30erao5@yr77tle$+qb+kr(#wz^v&4^laauslk@8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["testback4app-ezvxuaex.b4a.run"]
+ALLOWED_HOSTS = ["testback4app-ezvxuaex.b4a.run", "node84a.containers.back4app.com"]
 
 
 # Application definition
